@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "japan-private-car-service": {
+      "type": "http",
+      "url": "https://japanprivatecarservice.com/api/v1/agent/mcp"
+    }
+  }
+}
