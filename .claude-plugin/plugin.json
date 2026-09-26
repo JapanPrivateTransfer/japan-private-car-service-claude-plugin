@@ -4,10 +4,22 @@
   "version": "1.0.0",
   "description": "Book private airport transfers, city-to-city rides, and chauffeur charters across Japan. Real vehicle recommendations by passengers and luggage, authoritative quotes, booking drafts, and secure checkout — all from the conversation.",
   "author": {
-    "name": "Osaka Travel Co., Ltd.",
+    "name": "Japan Private Car Service",
     "url": "https://japanprivatecarservice.com"
   },
   "license": "MIT",
   "homepage": "https://japanprivatecarservice.com/en",
-  "keywords": ["japan", "airport transfer", "private car", "chauffeur", "kansai airport", "travel"]
+  "keywords": [
+    "japan",
+    "airport transfer",
+    "private car",
+    "chauffeur",
+    "kansai airport",
+    "travel"
+  ],
+  "privacyPolicyUrl": "https://japanprivatecarservice.com/en/policies/privacy",
+  "supportUrl": "https://japanprivatecarservice.com/en/policies/faq",
+  "termsOfServiceUrl": "https://japanprivatecarservice.com/en/policies/terms",
+  "documentationUrl": "https://japanprivatecarservice.com/docs/mcp",
+  "repository": "https://github.com/JapanPrivateTransfer/japan-private-car-service-claude-plugin"
 }
